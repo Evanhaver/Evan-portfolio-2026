@@ -1,0 +1,5 @@
+name = "portfolio-site"
+compatibility_date = "2026-05-14"
+
+[assets]
+directory = "."
